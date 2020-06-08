@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="26px" viewBox="0 0 35 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Payment-Method" transform="translate(-65.000000, -152.000000)">
+            <g id="Card" transform="translate(45.000000, 114.000000)">
+                <g id="Rectangle" transform="translate(20.000000, 38.000000)">
+                    <rect fill="#F0C753" fill-rule="nonzero" x="1" y="1" width="33" height="24" rx="5"></rect>
+                    <rect fill="#F7CB6B" fill-rule="nonzero" transform="translate(18.000000, 13.000000) rotate(180.000000) translate(-18.000000, -13.000000) " x="12" y="0" width="12" height="26" rx="3"></rect>
+                    <rect stroke="#5466C2" transform="translate(18.000000, 13.000000) rotate(180.000000) translate(-18.000000, -13.000000) " x="12.5" y="0.5" width="11" height="25" rx="2.5"></rect>
+                    <path d="M2.5,5.5 L12.5,5.5 L12.5,17.5 C12.5,19.1568542 11.1568542,20.5 9.5,20.5 L5.5,20.5 C3.84314575,20.5 2.5,19.1568542 2.5,17.5 L2.5,5.5 Z" id="Path" fill="#F7CB6B" fill-rule="nonzero" transform="translate(7.500000, 13.000000) rotate(-90.000000) translate(-7.500000, -13.000000) "></path>
+                    <path d="M3.5,6 L11.5,6 C11.7761424,6 12,6.22385763 12,6.5 L12,17.5 C12,18.8807119 10.8807119,20 9.5,20 L5.5,20 C4.83695878,20 4.20107399,19.7366079 3.73223305,19.267767 C3.2633921,18.798926 3,18.1630412 3,17.5 L3,6.5 C3,6.22385763 3.22385763,6 3.5,6 Z" id="Path" stroke="#5669C7" transform="translate(7.500000, 13.000000) rotate(-90.000000) translate(-7.500000, -13.000000) "></path>
+                    <path d="M22.5,5.5 L32.5,5.5 L32.5,17.5 C32.5,19.1568542 31.1568542,20.5 29.5,20.5 L25.5,20.5 C23.8431458,20.5 22.5,19.1568542 22.5,17.5 L22.5,5.5 Z" id="Path" fill="#F7CB6B" fill-rule="nonzero" transform="translate(27.500000, 13.000000) rotate(90.000000) translate(-27.500000, -13.000000) "></path>
+                    <path d="M23.5,6 L31.5,6 C31.7761424,6 32,6.22385763 32,6.5 L32,17.5 C32,18.8807119 30.8807119,20 29.5,20 L25.5,20 C24.8369588,20 24.201074,19.7366079 23.732233,19.267767 C23.2633921,18.798926 23,18.1630412 23,17.5 L23,6.5 C23,6.22385763 23.2238576,6 23.5,6 Z" id="Path" stroke="#5466C2" transform="translate(27.500000, 13.000000) rotate(90.000000) translate(-27.500000, -13.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
